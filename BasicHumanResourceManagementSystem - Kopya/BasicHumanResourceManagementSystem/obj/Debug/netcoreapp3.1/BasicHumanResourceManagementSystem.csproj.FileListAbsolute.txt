@@ -1,0 +1,13 @@
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\bin\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.exe
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\bin\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.deps.json
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\bin\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.runtimeconfig.json
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\bin\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.runtimeconfig.dev.json
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\bin\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.dll
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\bin\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.pdb
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\obj\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.csprojAssemblyReference.cache
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\obj\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\obj\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.AssemblyInfo.cs
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\obj\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\obj\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.dll
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\obj\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.pdb
+C:\Users\M.Akif\source\repos\BasicHumanResourceManagementSystem\BasicHumanResourceManagementSystem\obj\Debug\netcoreapp3.1\BasicHumanResourceManagementSystem.genruntimeconfig.cache
